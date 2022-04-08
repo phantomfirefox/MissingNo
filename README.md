@@ -17,13 +17,13 @@ Using Kanto data for now.
 ### Goals
 
 1. Build base for generating Pokemon for ML predictions and analysis
-2. 
+2.
 
 ### Questions
 
 * What is the distribution of Pokemon across the region? based on Routes?
 * What is the spread of Pokemon potentially available to catch in the wild? How does that potential look on each route?
-* What is the percentage of encouter for given sets of Pokemon with possible parameters? 
+* What is the percentage of encouter for given sets of Pokemon with possible parameters?
 
 ### Data
 
