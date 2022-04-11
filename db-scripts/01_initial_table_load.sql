@@ -184,3 +184,41 @@ VALUES (1,'Hardy',1,1,1,1,1)
 ,(23,'Sassy',1,1,1,1.1,0.9)
 ,(24,'Careful',1,1,0.9,1.1,1)
 ,(25,'Quirky',1,1,1,1,1);
+
+
+/*************************************\
+** REGION
+\*************************************/
+INSERT INTO region (region_id, name)
+VALUES (1,'Kanto');
+
+
+/*************************************\
+** ROUTE
+\*************************************/
+INSERT INTO route (route_id, name)
+VALUES (1,'Route 1')
+,(2,'Route 2')
+,(3,'Route 3')
+,(4,'Route 4')
+,(5,'Route 5')
+,(6,'Route 6')
+,(7,'Route 7')
+,(8,'Route 8')
+,(9,'Route 9')
+,(10,'Route 10')
+,(11,'Route 11')
+,(12,'Route 12')
+,(13,'Route 13')
+,(14,'Route 14')
+,(15,'Route 15')
+,(16,'Route 16')
+,(17,'Route 17')
+,(18,'Route 18')
+,(19,'Route 19')
+,(20,'Route 20')
+,(21,'Route 21')
+,(22,'Route 22')
+,(23,'Route 23')
+,(24,'Route 24')
+,(25,'Route 25');
