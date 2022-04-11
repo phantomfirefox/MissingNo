@@ -17,7 +17,6 @@ Using Kanto data for now.
 ### Goals
 
 1. Build base for generating Pokemon for ML predictions and analysis
-2.
 
 ### Questions
 
