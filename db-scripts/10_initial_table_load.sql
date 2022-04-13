@@ -1316,10 +1316,10 @@ VALUES (1,1,1)
 ** POKEMON_SPAWN_RATE (DRAFT)
 \*************************************/
 INSERT INTO pokemon_spawn_rate (pokemon_id, region_route_xref_id, location, min_level, max_level, rate)
-VALUES (21,2,'Grass',2,5,.5) -- PIDGEY RED
-,(21,27,'Grass',2,5,.5) -- PIDGEY BLUE 
-,(21,52,'Grass',2,7,.7) -- PIDGEY YELLOW
-,(25,2,'Grass',2,4,.5) -- RATTATA RED
-,(25,27,'Grass',2,4,.5) -- RATTATA BLUE 
-,(25,52,'Grass',2,4,.3) -- RATTATA YELLOW
-,(33,52,'Professor Oak',2,4,1); -- PIKACHU YELLOW
+VALUES (21,1,'Grass',2,5,.5) -- PIDGEY RED
+,(21,26,'Grass',2,5,.5) -- PIDGEY BLUE 
+,(21,51,'Grass',2,7,.7) -- PIDGEY YELLOW
+,(25,1,'Grass',2,4,.5) -- RATTATA RED
+,(25,26,'Grass',2,4,.5) -- RATTATA BLUE 
+,(25,51,'Grass',2,4,.3) -- RATTATA YELLOW
+,(33,51,'Professor Oak',2,4,1); -- PIKACHU YELLOW
